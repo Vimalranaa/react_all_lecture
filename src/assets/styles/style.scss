@@ -1,0 +1,18 @@
+@import url(./_mixins.scss);
+@import url(./_variables.scss);
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.mail{
+    width: 44%;
+}
+.fname{
+    margin-right: 16px;
+}
+.password{
+    width: 30%;
+}
